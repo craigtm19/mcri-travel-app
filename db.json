@@ -1,5 +1,26 @@
 {
-  "pokemon": [
-    
+  "FlightInfoPage": [
+    {
+      "DepartureDate": "May 13th 2024",
+      "Departuretime": "",
+      "DepartureCity": "Harare",
+      "DepartureAirport": "RG Mugabe International Airport",
+      "Airline": "Ethiopian",
+      "ArrivalDate": "May 13th 2024",
+      "ArrivalTime": "",
+      "ArrivalCity": "Addis Ababa",
+      "ArrivalAirport": "Addis Ababa Bole International Airport"
+    },
+    {
+      "DepartureDate": "May 20th 2024",
+      "Departuretime": "",
+      "DepartureCity": "Addis Ababa",
+      "DepartureAirport": "Addis Ababa Bole International Airport",
+      "Airline": "Ethiopian",
+      "ArrivalDate": "May 20th 2024",
+      "ArrivalTime": "",
+      "ArrivalCity": "Harare",
+      "ArrivalAirport": "RG Mugabe International Airport"
+    }
   ]
-}
+ }

@@ -13,7 +13,7 @@ const Header = () => {
         <ul className="nav-list">
           <li>
             {/* https://reactrouter.com/en/main/components/nav-link#navlink */}
-            <NavLink to={"/example"} className="link">Example Page</NavLink>
+            <NavLink to={"/FlightInfo"} className="link">FlightInfo</NavLink>
           </li>
         </ul>
       </div>
